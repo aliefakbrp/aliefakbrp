@@ -288,12 +288,14 @@ figure {
 #fh5co-features .feature-left p a {
     color: #000 !important;
 }
+#fh5co-work {
+    padding: 7em 0;
+}
 
 #fh5co-about,
 #fh5co-resume,
 #fh5co-skills,
 #fh5co-started,
-#fh5co-work,
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
@@ -999,7 +1001,9 @@ figure {
     padding: 20px 0;
     float: left;
     width: 100%;
-    /* margin: 0 auto; */
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-buttom: 0px;
 }
 #fh5co-footer p:last-child {
     margin-bottom: 0;
